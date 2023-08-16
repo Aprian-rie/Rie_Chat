@@ -1,4 +1,4 @@
-package com.example.rie_chat
+package com.aprian.rie_chat
 
 import io.flutter.embedding.android.FlutterActivity
 

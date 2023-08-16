@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80741510514",
+    "project_id": "rie-chat",
+    "storage_bucket": "rie-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80741510514:android:ae7c462e0e29d7849e01eb",
+        "android_client_info": {
+          "package_name": "com.aprian.rie_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80741510514-q8t1i36rdat7rl3mjoc0lp5gvcatuuqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrvDNjT2Az1Ar23J8BnMf4h-z5SZyfoWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80741510514-q8t1i36rdat7rl3mjoc0lp5gvcatuuqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
